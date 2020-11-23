@@ -105,3 +105,9 @@ cd public
     )
 
 10) echo "web: node app.js" > Procfile
+
+11) git add .
+
+12) git commit -m "ready to deploy"
+
+13) git push heroku master
